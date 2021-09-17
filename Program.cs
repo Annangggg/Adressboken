@@ -3,6 +3,8 @@
 string contacts = "";
 int numberOfPeopleInList = 0;
 
+// Make a change
+
 while (true)
 {
     Console.Clear();
