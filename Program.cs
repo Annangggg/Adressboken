@@ -3,7 +3,7 @@
 string contacts = "";
 int numberOfPeopleInList = 0;
 
-// Make a change
+// Make a second change
 
 while (true)
 {
